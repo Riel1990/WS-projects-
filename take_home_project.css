@@ -1,0 +1,10 @@
+header  h1{
+  color: brown;
+}
+body {
+  font-family: arial, sans-serif;
+  text-align: center;
+  background-image: url("World1.png");
+}
+footer {
+}
