@@ -8,3 +8,12 @@ body {
 }
 footer {
 }
+
+header, main, footer {  /* affects all three: header, main, footer.  Use commas to separate. */
+   width: 70%;
+   margin: 0 auto;  /* will center these in the page */
+   background-color: rgba(255,255,255,.7);  /* rgba is a colour code.  255,255,255 is white.  0.7 is see through */
+ }
+  header  h1{
+    color: brown;
+  }
